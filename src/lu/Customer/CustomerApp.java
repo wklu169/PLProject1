@@ -1,6 +1,6 @@
-package cannata;
+package lu.Customer;
 
-public class Jan26Class {
+public class CustomerApp {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
